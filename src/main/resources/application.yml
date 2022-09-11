@@ -1,0 +1,7 @@
+dataFolder: ${archive.folder}/formater/agrav
+
+eureka:
+  client:
+    enabled: false
+    
+server.port: 8493
